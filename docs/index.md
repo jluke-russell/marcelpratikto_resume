@@ -24,12 +24,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - June 2023`
+__Google__, Mountain View, CA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked on Machine Learning algorithms
+- Completed minor debugging
+- Learned about Google's processes
 
 ### Data Science Lead
 
