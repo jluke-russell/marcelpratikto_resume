@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Marcel Pratikto's Resume
+title: Marcel Pratikto's CV
 ---
 # Marcel Pratikto
 Bs in Computer Science
 
 <div id="webaddress">
 <a href="pra14016@byui.edu">pra14016@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/marcel-albert-pratikto-625354199/">LinkedIn</a>
-| <a href="https://github.com/MarcelPratikto/marcelpratikto_resume">GitHub</a>
+| <a href="https://marcelpratikto.github.io/marcelpratikto_resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -20,7 +19,6 @@ Bs in Computer Science
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
-
 
 ## Related Experience
 
@@ -65,12 +63,10 @@ __Pinnacle Management Group__,
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
-
 ## Service and Work History
 
 `2025-2027`
 __Math Tutor__, LDSBC
-
 
 `2023-2025`
 __Service Missionary__, South Africa
