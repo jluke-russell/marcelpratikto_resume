@@ -20,6 +20,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
 
+
+Suggested Edits: if you have any practical experience enter it here. If not, maybe include what you hope to do. 
+
 ## Related Experience
 
 ### Internships
